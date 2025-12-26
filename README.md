@@ -4,5 +4,5 @@ A responsive, minimalist landing page built with HTML5 and Tailwind CSS. This pr
 <br>
 
 
-<a href=" https://elyasforghani.github.io/simple-tailwind-exercise/ "> live demo </a>
-👤 Author Elyas Forghani
+<a href=" https://elyasforghani.github.io/simple-tailwind-exercise "> live demo </a>
+<p> 👤 Author Elyas Forghani</p>
